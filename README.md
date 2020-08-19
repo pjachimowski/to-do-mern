@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## PULLREQUEST TRY OUT 
-this is edited version for pull request 
+edited version is changed 
 
 
 
